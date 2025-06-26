@@ -1,0 +1,42 @@
+[
+    {
+        "team": "5",
+        "group points": 6,
+        "goals": 14
+    },
+    {
+        "team": "4",
+        "group points": 6,
+        "goals": 15
+    },
+    {
+        "team": "3",
+        "group points": 3,
+        "goals": 12
+    },
+    {
+        "team": "8",
+        "group points": 3,
+        "goals": 8
+    },
+    {
+        "team": "7",
+        "group points": 7,
+        "goals": 15
+    },
+    {
+        "team": "2",
+        "group points": 4,
+        "goals": 6
+    },
+    {
+        "team": "1",
+        "group points": 1,
+        "goals": 12
+    },
+    {
+        "team": "6",
+        "group points": 4,
+        "goals": 5
+    }
+]
